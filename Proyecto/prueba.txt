@@ -1,0 +1,24 @@
+dia = 4
+
+jose dia == 1:
+	pisco( 'lunes' )
+cuervo:
+jose dia == 2:
+	pisco( 'martes' )
+cuervo:
+jose dia == 3:
+    pisco( 'miercoles' )
+cuervo:
+jose dia == 4:
+    pisco( 'jueves' )
+cuervo:
+jose dia == 5:
+    pisco( 'viernes' )
+cuervo:
+jose dia == 6:
+    pisco( 'sábado' )
+cuervo:
+jose dia == 7:
+    pisco( 'domingo' )
+cuervo:
+    pisco( 'error' )
